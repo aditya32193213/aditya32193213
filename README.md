@@ -6,7 +6,7 @@ Hi there👋<br><br>Nice meeting you, I'm Aditya, a Full Stack Web Developer spe
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adi_tyakr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya32193213) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aditya32193213) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya32193213@gmail.com) 
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1taMwzDvrpy8wBoj_geODAnpxU0hhc1RO/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/16W8TWiwomTmBacHXUpHbUO8Tq0cqRypj/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
   <a href="https://aditya32193213.github.io/React-Portfolio/">
